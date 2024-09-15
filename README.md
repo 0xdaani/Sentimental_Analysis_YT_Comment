@@ -24,3 +24,10 @@ python3 main.py
 ```
 
 # DashBoards
+
+![](./Dashboards/Dashboard.png)
+![](./Dashboards/Dashboard1.png)
+![](./Dashboards/Dashboard2.png)
+![](./Dashboards/Commentaire1.png)
+![](./Dashboards/Commentaire2.png)
+![](./Dashboards/Commentaire3.png)
