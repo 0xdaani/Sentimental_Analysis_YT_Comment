@@ -1,6 +1,6 @@
 # Overview
 
-This program allows you to retrieve comments from a chosen YouTube video. It then performs sentiment analysis using a pre-trained model from the Transformers library. The data in JSON format is then sent to a MongoDB database on Elasticsearch.
+This program allows you to retrieve comments from a chosen YouTube video using a Python script. It then performs sentiment analysis using a pre-trained model from the Transformers library. The data in JSON format is then sent to a MongoDB database on Elasticsearch.
 
 I have included some dashboard examples created with Kibana.
 
