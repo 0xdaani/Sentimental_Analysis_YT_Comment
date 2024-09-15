@@ -23,7 +23,7 @@ Before running the YouTube comment sentiment analysis program, make sure to upda
 python3 main.py
 ```
 
-# DashBoards
+# DashBoards on Kibana
 
 ![](./Dashboards/Dashboard.png)
 ![](./Dashboards/Dashboard1.png)
